@@ -1,3 +1,4 @@
+<body>
 <p style = "color:blue">:P       wytkniety jezyk</p>
 <p style = "color:green">:)       usmiech</p>
 <p style = "color:blue">:D       szeroki usmiech</p>
@@ -8,4 +9,4 @@
 
 <p style = "color:blue;size:30pt">body-Ustawienia strony trafiają do sekcji wyznaczonej przez element <head>,  natomiast treść strony internetowej, czyli wszystko to co zostanie wyświetlone na ekranie musi znaleźć się w elemencie <body></p>
 <p style = "color:green;size:20pt">znacznik p-jeden znacznik <P> umieszczany na końcu tworzonego akapitu. Przeglądarki napotykając na znacznik <P> przechodziły automatycznie do nowej linii, oddalonej w pionie od swojej poprzedniczki.</p>
-
+</body>
