@@ -1,12 +1,28 @@
 <body>
-<p style = "color:blue">:P       wytkniety jezyk</p>
-<p style = "color:green">:)       usmiech</p>
-<p style = "color:blue">:D       szeroki usmiech</p>
-<p style = "color:green">:(       smutek</p>
-<p style = "color:blue">D:       duzy smutek</p>
-<p style = "color:green">:|       obojetnosc</p>
+    <head>
+        <link rel="Stylesheet" type="text/css" href="style.css" />
+        </head>
+        <style>
+body  {
+        color: blue;
+        font-size:30pt;
+    }
+    p  {
+        color: green;
+        font-size:20pt;
+    }
 
-
-<p style = "color:blue;size:30pt">body-Ustawienia strony trafiają do sekcji wyznaczonej przez element <head>,  natomiast treść strony internetowej, czyli wszystko to co zostanie wyświetlone na ekranie musi znaleźć się w elemencie <body></p>
-<p style = "color:green;size:20pt">znacznik p-jeden znacznik <P> umieszczany na końcu tworzonego akapitu. Przeglądarki napotykając na znacznik <P> przechodziły automatycznie do nowej linii, oddalonej w pionie od swojej poprzedniczki.</p>
-</body>
+        </style>
+           
+    
+    <p>:P       wytkniety jezyk</p>
+    <body>:)       usmiech</body>
+    <p>:D       szeroki usmiech</p>
+    <body>>:(       smutek</body>
+    <p>D:       duzy smutek</p>
+    <body>:|       obojetnosc</body>
+    
+    
+    <p style = "color:blue;size:30pt">body-Ustawienia strony trafiają do sekcji wyznaczonej przez element <head>,  natomiast treść strony internetowej, czyli wszystko to co zostanie wyświetlone na ekranie musi znaleźć się w elemencie <body></p>
+    <p style = "color:green;size:20pt">znacznik p-jeden znacznik <P> umieszczany na końcu tworzonego akapitu. Przeglądarki napotykając na znacznik <P> przechodziły automatycznie do nowej linii, oddalonej w pionie od swojej poprzedniczki.</p>
+    </body>
