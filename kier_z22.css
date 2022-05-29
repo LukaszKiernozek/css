@@ -1,0 +1,15 @@
+﻿p {
+    color: red;
+    font-size: 22pt;
+}
+
+    p#gruby_kiernozek {
+        color: green;
+        font-size: 17pt;
+    }
+
+#dlawszystkich-kiernozek {
+    color: yellow;
+    font-size: 10pt;
+    font-family: Arial;
+}

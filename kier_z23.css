@@ -1,0 +1,32 @@
+p#pogrubienie_kiernozek {
+    font-size: 34px;
+    color: #9B46CF;
+}
+
+p#pochylona_kiernozek {
+    font-size: 39px;
+    color: #FFAA6B;
+}
+
+p#index_gorny_kiernozek {
+    font-size: 1.4cm;
+    color: #AF8C96;
+}
+
+p#index_dolny_kiernozek {
+    font-size: 2.3cm;
+    color: #4BF0FA;
+}
+
+p#mono_nazwisko_kiernozek {
+    font-size: 44px;
+    color: #2FDC82;
+}
+
+p#powiekszenie_kiernozek {
+    color: #693C9D;
+}
+
+p#pomniejszenie_kiernozek {
+    color: #503F1F;
+}
